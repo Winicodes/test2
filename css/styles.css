@@ -1,0 +1,52 @@
+
+
+h1{
+    
+    border-color:yellow;
+     border-style:onset;
+  color:yellow;
+   border-width: 20px;
+
+width: 30%;
+text-align:center;
+margin:auto;
+
+}
+
+
+hr{
+    
+    border-color:mediumvioletred;
+     border-style:dotted;
+  
+   border-width: 20px;
+border-right: none;
+border-left:none;
+border-bottom:none;
+width: 90%;
+text-align:center;
+margin:auto;
+padding-bottom: 50px;
+padding-top:50px;
+}
+
+img{
+   border-color:white;
+     border-style:dashed;
+  background-color:rgb(255, 0, 0);
+    align:center;
+border-width-right: 7px;
+border-width-left:7px;
+border-width-bottom:7px;
+border-width-top:7px;
+
+text-align:center;
+margin:50px;
+padding-bottom: 10px;
+padding-top:10px;
+padding-left: 10px;
+padding-right:10px;
+}
+ h2{
+    color:white;
+ }
